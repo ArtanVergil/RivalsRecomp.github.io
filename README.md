@@ -124,6 +124,8 @@ Rivals Recomp is an unofficial, fan-made project and is not affiliated with, end
 
 This project does not distribute any game data, game code or assets. You must supply your own legally obtained copy of the game. Please do not share ISOs or the built `RivalsRecomp.exe`, because it contains translated game code.
 
+Made with the assistance of AI.
+
 ## 📜 License
 
 The Rivals Recomp source code in the release is under the **MIT License** (see `LICENSE` in the zip). Third-party tools keep their own licenses (see `LICENSES/THIRD_PARTY.md`). This license does not cover Sonic Rivals 2 or any SEGA material.
